@@ -11,13 +11,11 @@ top2 = media.Movie ('Emoticon',
                             'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top2.jpg?raw=true',
                             'https://www.youtube.com/watch?v=1UptRVmFtMg')
 
-fight_club = media.Movie ('Fight Club',
-                          'An insomniac office worker and a devil-may-care soapmaker form an underground fight club '
-                          'that evolves into something much, much more.',
-                          'https://m.media-amazon.com/images/M'
-                          '/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM'
+top3 = media.Movie ('Wonder Twins in HR Department',
+                          'Wonder Twins are on the Justices League HR department, but things dont turn well for Zen',
+                          'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top3.jpg?raw=true''
                           '@._V1_UX182_CR0,0,182,268_AL_.jpg',
-                          'https://www.youtube.com/watch?v=klKekX-VXmA')
+                          'https://www.youtube.com/watch?v=GY9Aiieerrk')
 
 snatch = media.Movie ('Snatch',
                       'A group of up-and-coming hustlers who stumble upon a truck-load of stolen gold bullion are '
@@ -44,5 +42,5 @@ rock_rolla = media.Movie ('The Matrix',
                           '@@._V1_UX182_CR0,0,182,268_AL_.jpg',
                           'https://www.youtube.com/watch?v=F_n0e3d4ruE')
 
-movies = [top1, ing_basterds, fight_club, snatch, matrix, rock_rolla]
+movies = [top1, top2, top3, snatch, matrix, rock_rolla]
 fresh_tomatoes.open_movies_page(movies)
