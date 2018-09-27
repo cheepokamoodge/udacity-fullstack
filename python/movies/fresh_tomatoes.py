@@ -6,7 +6,7 @@ import re
 main_page_head = '''
 <head>
     <meta charset="utf-8">
-    <title>Top 6</title>
+    <title>Top 6 - Porta dos Fundos</title>
 
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
@@ -107,9 +107,10 @@ main_page_content = '''
     
     <!-- Main Page Content -->
     <div class="container">
-      <div class="top-bar" role="navigation" style="width:100%; height:100px; background-color:black;">
+      <div class="top-bar" role="navigation" style="width:100%; height:100px; background-color:black; float:left">
+        <img src="imgs/pflogo.jpg" style="float:left; width:100px;">
+        <h2 style="color:white; margin-left: 200px; float:left; margin-top: 30px;">Porta dos Fundos - Top 6 Episodes</h2>
       </div>
-    </div>
     </div>
     <div class="container">
       {movie_tiles}

@@ -1,9 +1,23 @@
 from movies import media
 from movies import fresh_tomatoes
 
+# Porta dos Fundos is a Brazilian comedy YouTube channel. It is the 4th most-subscribed
+# channel in Brazil, and 49th overall, with over 13 million subscribers as of June 2017
+# The following program displays a webpage with my top 6 best episodes
+
+# All episodes selected here have the option to display English subtitle
+
+# Generate the instances of class Movie which takes as arguments :
+# movie_title -- The Title of the episode
+# movie_storyline -- A brief description of the episode
+# poster_image -- A link for the images related to each episode
+# trailer_youtube -- the you tube link for the related episode
+
 top1 = media.Movie ('The 10 Commandments',
-                    'Moses just received the 10 commandments from god, but he is having a hard time making the hebrew people believe in him',
-                    'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top1.jpg?raw=true',
+                    'Moses just received the 10 commandments from god, but he is having a hard time making the hebrew '
+                    'people believe in him',
+                    'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top1.jpg?raw'
+                    '=true',
                     'https://youtu.be/eLawrQ1KQno?cc_load_policy=1&cc_lang_pref=en')
 
 top2 = media.Movie ('Emoticon',
@@ -37,5 +51,8 @@ top6 = media.Movie ('Creative Meeting',
                     '=true',
                     'https://www.youtube.com/watch?v=YTlQ_2SaQmM')
 
+# Group the instances of Movie into a lit
 movies = [top1, top2, top3, top4, top5, top6]
+
+# Pass the list as an argumento the the function open_movies_page which generates a pre defined HTML file.
 fresh_tomatoes.open_movies_page (movies)

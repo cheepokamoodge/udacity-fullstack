@@ -13,5 +13,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
+        # function to open a web browser and display the youtube video related to an url
     def show_trailer(self):
         webbrowser.open (self.trailer_youtube_url)
