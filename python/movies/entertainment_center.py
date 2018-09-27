@@ -17,12 +17,10 @@ top3 = media.Movie ('Wonder Twins in HR Department',
                           '@._V1_UX182_CR0,0,182,268_AL_.jpg',
                           'https://www.youtube.com/watch?v=GY9Aiieerrk')
 
-snatch = media.Movie ('Snatch',
-                      'A group of up-and-coming hustlers who stumble upon a truck-load of stolen gold bullion are '
-                      'suddenly thrust into the high-stakes world of organized crime.',
-                      'https://m.media-amazon.com/images/M/MV5BMzEyMTc4NzEyMl5BMl5BanBnXkFtZTgwMzA2OTYzNjM'
-                      '@._V1_UX182_CR0,0,182,268_AL_.jpg',
-                      'https://www.youtube.com/watch?v=9Jar2XkBboo')
+top4 = media.Movie ('Living Alone',
+                      'Living alone for the first time as not as easy as it looks.',
+                      'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top4.jpg?raw=true',
+                      'https://www.youtube.com/watch?v=71nbCHS1B8Q')
 
 matrix = media.Movie ('The Matrix',
                       'A computer hacker learns from mysterious rebels about the true nature of his reality and his '
