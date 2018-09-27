@@ -13,7 +13,7 @@ top2 = media.Movie ('Emoticon',
 
 top3 = media.Movie ('Wonder Twins in HR Department',
                           'Wonder Twins are on the Justices League HR department, but things dont turn well for Zen',
-                          'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top3.jpg?raw=true''
+                          'https://github.com/marcelobrandao/udacity-fullstack/blob/master/python/movies/imgs/top3.jpg?raw=true'
                           '@._V1_UX182_CR0,0,182,268_AL_.jpg',
                           'https://www.youtube.com/watch?v=GY9Aiieerrk')
 
