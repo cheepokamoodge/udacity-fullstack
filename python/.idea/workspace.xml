@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea92dd31-8cb0-4a40-af3d-297b850de453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/entertainment_center.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/fresh_tomatoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/media.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/entertainment_center.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/entertainment_center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/fresh_tomatoes.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/fresh_tomatoes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/fresh_tomatoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/fresh_tomatoes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2036" />
+          <entry key="py" value="2327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2036" />
+          <entry key="Python" value="2327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -65,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/movies/entertainment_center.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -77,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movies/fresh_tomatoes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -111,8 +109,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="364" />
-    <option name="y" value="45" />
+    <option name="x" value="495" />
+    <option name="y" value="-8" />
     <option name="width" value="1038" />
     <option name="height" value="1129" />
   </component>
@@ -323,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movies/fresh_tomatoes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
@@ -333,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movies/entertainment_center.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
