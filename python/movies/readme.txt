@@ -13,6 +13,6 @@ The variables are grouped on a list which calls a function called open_movies_pa
 
 Usage :
 
-- Clone the repository or download the files media.py, entertainment_center.py and fresh_tomatoes to the same folder
+- Clone the repository or download the files media.py, entertainment_center.py and fresh_tomatoes.py to the same folder
 - Run entertainment_center.py
 - It is going to open an HTML file read for usage
